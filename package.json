@@ -1,0 +1,16 @@
+{
+  "name": "conection-final",
+  "version": "1.0.0",
+  "description": "conection mysql desde nodejs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^4.4.5",
+    "express": "^4.21.1",
+    "mysql2": "^3.11.3"
+  }
+}
